@@ -1,7 +1,2 @@
-# Snake Game
-
-A simple snake game built using Pygame.
-
-# Requirements
-- Python 3.7
-- Pygame
+1. Нарушение по SOLID - Single Responsibility (Принцип единственной ответственности):  одном классе смешана логика игры и принты
+2. Нет комментариев к методам
